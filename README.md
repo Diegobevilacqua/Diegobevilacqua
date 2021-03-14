@@ -1,4 +1,4 @@
-- 💻 Software developer  
+- 💻 Full stack developer  
 - 📫 diegofbevilacqua1998@gmail.com
 
 <!---
