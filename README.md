@@ -1,6 +1,6 @@
 💻 Full stack developer 
 
-📚 Estudiante de Ingeniería en Sistemas de Información en UTN-FRBA 
+📚 Software Engineer (UTN-FRBA)
 
 📫 diegofbevilacqua1998@gmail.com
 
